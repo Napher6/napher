@@ -7,7 +7,11 @@
  */body{font-family:'Open Sans',serif;padding-top:54px;color:#993399}
  @media (min-width:992px){body{padding-top:0;padding-left:17rem}}
  h1,h2,h3,h4,h5,h6{
-	 font-family:'Saira Extra Condensed',serif;font-weight:700;text-transform:uppercase;color:#993399}
+	 font-family:'Saira Extra Condensed',serif;
+	 font-weight:700;
+	 text-transform:uppercase;
+	 color:#993399}
+	 
 	 h1{font-size:6rem;line-height:5.5rem}
 	 h2{font-size:3.5rem}
 	 .subheading{text-transform:uppercase;
@@ -55,7 +59,11 @@
 						     padding-bottom:3rem!important}}
 							 .bg-primary{background-color:#993399!important}
 							 .text-primary{color#993399!important}
-							 a{color:#bd5d38}a:active,a:focus,a:hover{color:#FFBFFF}
-							 .tlinks{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
+							 a{color:#495057}a:active,a:focus,a:hover{color:#FFBFFF}
+							 .tlinks{text-indent:-9999px;
+							 height:0;
+							 line-height:0;
+							 font-size:0;
+							 overflow:hidden;}
 
 			 
